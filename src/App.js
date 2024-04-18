@@ -43,7 +43,6 @@ function App() {
         </Routes>
       </Router>
       {/* <Table></Table> */}
-      <Dictaphone/>
       
     </>
     
